@@ -1,3 +1,3 @@
 Capítulo 1: Introducción a Git
-Capítulo 2: Introducción a Git
-Capítulo 3: [A[B[A[C[C[C[C[C[C[C[C[C[C[C[C[C[Cflujo de trabajo básico[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DRepositorios remotos
+Capítulo 2: flujo de trabajo básico
+Capítulo 3: Repositorios remotos
